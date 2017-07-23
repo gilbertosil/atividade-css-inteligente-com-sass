@@ -1,1 +1,12 @@
-"#Curso de Certificaá∆o Bootstrap" 
+# Curso de Certifica√ß√£o Bootstrap
+
+## Atividade CSS inteligente com SASS
+
+Atividade consiste em desenvolver um componente navbar utilizando os recursos apresentados no modulo.
+
+## Plugins utilizados
+
+* [gulp](https://www.npmjs.com/package/gulp);
+* [gulp-htmlmin](https://www.npmjs.com/package/gulp-htmlmin);
+* [gulp-sass](https://www.npmjs.com/package/gulp-sass);
+* [gulp-connect](https://www.npmjs.com/package/gulp-connect)
